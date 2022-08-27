@@ -1,5 +1,0 @@
-Descomprimir y meter las carpetas en c:/arduino/libraries
-En arduino IDE pinchar la opcion de administrar librerias y luego buscar e instalar..
--MAPF (mapfloat)
--Fastled
--Adafruit SSD1306
